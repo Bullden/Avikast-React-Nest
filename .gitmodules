@@ -1,0 +1,9 @@
+[submodule "avikast-webapp"]
+	path = avikast-webapp
+	url = ./avikast-webapp
+[submodule "avikast-backend"]
+	path = avikast-backend
+	url = ./avikast-backend
+[submodule "avikast-mediasoup"]
+	path = avikast-mediasoup
+	url = ./avikast-mediasoup
